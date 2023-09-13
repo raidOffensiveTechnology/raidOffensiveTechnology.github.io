@@ -12,12 +12,11 @@ def create(filename, content):
 
 date = get_current_date()
 title = input('Article title >>> ')
-tags =  input('Article tags  >>> ').split(' ')
+tags =  input('Article tags  >>> ')
 
 template = f"""---
 title: {title}
 categories: {tags}
-author: me
 ---
 """
 
