@@ -1,6 +1,6 @@
 ---
 title: Welcome to the raidOT Blog
-categories: ['misc']
+categories: [misc]
 author: me
 ---
 # Welcome!
