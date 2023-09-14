@@ -1,5 +1,5 @@
 ---
-title: Introduction to Bash: Getting Started with the Command Line
+title: Introduction to Bash (BASH 1)
 categories: [bash]
 ---
 
