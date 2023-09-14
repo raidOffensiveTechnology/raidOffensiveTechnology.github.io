@@ -1,6 +1,7 @@
 ---
 title: Introduction to Bash
 categories: [bash]
+image: https://github.com/raidOffensiveTechnology/raidOffensiveTechnology.github.io/blob/main/assets/img/bash.png?raw=true
 ---
 
 # Introduction to Bash: Getting Started with the Command Line
