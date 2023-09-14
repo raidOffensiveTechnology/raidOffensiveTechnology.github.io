@@ -1,5 +1,5 @@
 ---
-title: Introduction to Bash (BASH 1)
+title: Introduction to Bash
 categories: [bash]
 ---
 
