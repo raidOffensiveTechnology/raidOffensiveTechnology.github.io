@@ -2,6 +2,8 @@
 title: Introduction to Bash: Getting Started with the Command Line
 categories: [bash]
 ---
+# Introduction to Bash: Getting Started with the Command Line
+
 Bash (AKA Bourne Again Shell) is the basic language to communicate with a computer, it is very widespread which helps us a lot.
 
 ## Installation
