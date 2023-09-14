@@ -4,8 +4,6 @@ categories: [bash]
 image: https://github.com/raidOffensiveTechnology/raidOffensiveTechnology.github.io/blob/main/assets/img/bash.png?raw=true
 ---
 
-# Introduction to Bash: Getting Started with the Command Line
-
 Bash (AKA Bourne Again Shell) is the basic language to communicate with a computer.
 
 ## Installation
