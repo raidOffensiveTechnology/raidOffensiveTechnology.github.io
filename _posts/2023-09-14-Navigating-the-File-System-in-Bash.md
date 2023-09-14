@@ -27,9 +27,10 @@ It will list all the files and **directories** in the **directory** we are **wor
 
 ## CD
 Now that we know where we are, and what is around us, let's move into one of those **directories**. Let's move into the `Downloads` **directory**.
-We would run: `cd Downloads`
-This moves us into our desired **directory**.
+We would run: `cd Downloads`. This moves us into our desired **directory**.
+
 To move back a **directory**, we would run: `cd ..`
+
 Imagine we want to move back all the way into the home **directory**, we would run: `cd `.
 > Make sure your command is `cd ` and not `cd`
 {: .prompt-warning }
