@@ -11,8 +11,8 @@ def create(filename, content):
 	     f.close()
 
 date = get_current_date()
-title = input('Article title >>> ')
-tags =  input('Article tags  >>> ')
+title = input('Article title     >>> ')
+tags =  input('Article category  >>> ')
 
 template = f"""---
 title: {title}
@@ -24,4 +24,4 @@ filen = date+"-"+title.replace(' ', '-')+".md"
 
 create(filen, template)
 
-os.system(f'nano {filen}')
+os.system(f'atom {filen}')
